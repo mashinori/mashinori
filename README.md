@@ -82,7 +82,3 @@
 
 
 <br>
-
-<p align="center">
-    <img src="assets/loficity.gif" alt="lofi nightlife city scene">
-</p>
