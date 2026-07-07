@@ -23,8 +23,6 @@
   - browser extensions & software experimentation
   - decompilers, deobfuscation, and code analysis
 
-<br>
-
 - 🔍 reverse engineering / analysis:
 
   - used decompilers to inspect compiled applications and understand how they work
