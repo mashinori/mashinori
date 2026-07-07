@@ -17,6 +17,7 @@
 - 🌱 currently learning **luau, python, and c++**.
 
 - 📸 things i've messed around with:
+- 
   - roblox studio & luau development (2018 - 2026)
   - server management, configuration, and troubleshooting
   - browser extensions & software experimentation
@@ -25,6 +26,7 @@
 <br>
 
 - 🔍 reverse engineering / analysis:
+
   - used decompilers to inspect compiled applications and understand how they work
   - experience reading decompiled java code and following program logic
   - experimented with obfuscated scripts and analysing how protection systems work
