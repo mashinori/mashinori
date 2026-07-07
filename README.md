@@ -9,7 +9,6 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mashinori&color=blueviolet&style=flat-square&label=PROFILE+VIEWS&base=18332&abbreviated=true" alt="profile view counter">
 </p>
-
 <h2 align="center">professional tinkerer</h2>
 
 <br>
