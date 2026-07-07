@@ -6,11 +6,8 @@
 </p> <br>
 <h2 align="center"> professional larper</h2>
 
-* 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
-Actively Going through:
-  - 100 Devs with Leon
-  - The Odin Project: Fundamentals + Full Stack JavaScript
-  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
+* currently learning luau, python, and c++. <br> 
+<br>
 
 * 🐾 I’m looking to network and make friends here! <br><br>
 
