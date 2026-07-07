@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mashinori&color=blueviolet&style=flat-square&label=PROFILE+VIEWS&base=12332" alt="profile view counter">
+    <img src="https://komarev.com/ghpvc/?username=mashinori&color=blueviolet&style=flat-square&label=PROFILE+VIEWS&base=12332&abbreviated=true" alt="profile view counter">
 </p>
 
 <br>
